@@ -97,7 +97,7 @@ const promptProject = portfolioData => {
                 type: "checkbox",
                 name: "languages",
                 message: "What did you build this project with? (Check all that apply)",
-                choices: ["Javascript", "HTML", "CSS", "ES6", "jQuery", "Bootstrap", "Node"]
+                choices: ["JavaScript", "HTML", "CSS", "ES6", "jQuery", "Bootstrap", "Node"]
             },
             {
                 type: "input",
